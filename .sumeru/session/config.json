@@ -1,0 +1,10 @@
+{
+  "title": "三千旁门",
+  "genre": "都市修行",
+  "style": "写实都市 + 克制的玄",
+  "tone": "社会残酷、小人物、真实感、暗爽",
+  "wordsPerChapter": 3000,
+  "platform": "起点",
+  "outputDir": "./",
+  "subAgentRule": "每个子Agent最多负责3个章节（恰好一个蓄水-加压-倾泻单元）"
+}

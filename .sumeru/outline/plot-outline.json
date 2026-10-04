@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "title": "三千旁门",
+    "totalChapters": 500,
+    "totalWords": "约150万"
+  },
+  "mainLine": "孟实从三千旁门中经清浊、坚信、得引渡、感应，走到入地纳气，在几千年一开的大机缘中找到唯一真路",
+  "subLines": [
+    "阿杰线",
+    "前世线",
+    "老耿线",
+    "家庭线（父亲病与黄布牌位）",
+    "贺明远与背后资本线"
+  ],
+  "volumes": [
+    {
+      "no": 1,
+      "name": "迷途篇",
+      "chapters": "1-80",
+      "conflict": "浊气缠身的底层生存与旁门诱惑",
+      "stage": "清浊→坚信→得引渡→感应初开",
+      "faceSlap": "纯暗爽",
+      "hook": "得引渡，被允许寻地",
+      "segments": [
+        {
+          "chapters": "1-30",
+          "summary": "遇老耿、清浊、阿杰风光与崩塌、首次感应、门开一条缝"
+        },
+        {
+          "chapters": "31-55",
+          "summary": "感应渐稳、主动避祸与因果代价、贺明远背后资本盯上老耿、牌位来历"
+        },
+        {
+          "chapters": "56-80",
+          "summary": "诚意大考、坚信、得引渡、雨不积水之地线索"
+        }
+      ]
+    },
+    {
+      "no": 2,
+      "name": "寻地篇",
+      "chapters": "81-170",
+      "conflict": "寻修炼之地，与玄学圈和权贵初次交锋",
+      "stage": "感应初开→渐深",
+      "faceSlap": "半明半暗"
+    },
+    {
+      "no": 3,
+      "name": "名利篇",
+      "chapters": "171-260",
+      "conflict": "资本权势人情全面压迫，旁门垄断机缘",
+      "stage": "感应渐深→入地纳气",
+      "faceSlap": "事实打脸"
+    },
+    {
+      "no": 4,
+      "name": "穴场篇",
+      "chapters": "261-350",
+      "conflict": "机缘开放，天灾与阴灵布局增多，各方争夺穴场",
+      "stage": "入地纳气→进阶",
+      "faceSlap": "心性胜出"
+    },
+    {
+      "no": 5,
+      "name": "劫数篇",
+      "chapters": "351-440",
+      "conflict": "大劫临近，救人与因果，前世揭晓",
+      "stage": "高阶",
+      "faceSlap": "明面增多，底牌仍藏"
+    },
+    {
+      "no": 6,
+      "name": "归真篇",
+      "chapters": "441-500",
+      "conflict": "三千旁门与唯一真路的最终辨别",
+      "stage": "圆满",
+      "faceSlap": "最平凡的人走到最远"
+    }
+  ],
+  "units": [
+    {
+      "unit": 1,
+      "chapters": "1-3",
+      "coolPointType": "机缘"
+    },
+    {
+      "unit": 2,
+      "chapters": "4-6",
+      "coolPointType": "身体回升/逆转"
+    },
+    {
+      "unit": 3,
+      "chapters": "7-9",
+      "coolPointType": "信息差暗爽"
+    },
+    {
+      "unit": 4,
+      "chapters": "10-12",
+      "coolPointType": "心性胜出"
+    },
+    {
+      "unit": 5,
+      "chapters": "13-15",
+      "coolPointType": "打脸·轻"
+    },
+    {
+      "unit": 6,
+      "chapters": "16-18",
+      "coolPointType": "收获/人情"
+    },
+    {
+      "unit": 7,
+      "chapters": "19-21",
+      "coolPointType": "信息差暗爽"
+    },
+    {
+      "unit": 8,
+      "chapters": "22-24",
+      "coolPointType": "人情回报+前世钩子"
+    },
+    {
+      "unit": 9,
+      "chapters": "25-27",
+      "coolPointType": "趋吉避凶"
+    },
+    {
+      "unit": 10,
+      "chapters": "28-30",
+      "coolPointType": "打脸+钩子"
+    }
+  ]
+}
