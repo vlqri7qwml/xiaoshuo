@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "sumeru-finalize": {
+      "source": "xindoo/sumeru",
+      "sourceType": "github",
+      "skillPath": "skills/sumeru-finalize/SKILL.md",
+      "computedHash": "62c617d33b1b93ab4c586f5ca71ef2a165889a423ff75d5909a0ffb599309fce"
+    },
+    "sumeru-outline": {
+      "source": "xindoo/sumeru",
+      "sourceType": "github",
+      "skillPath": "skills/sumeru-outline/SKILL.md",
+      "computedHash": "071ae90de4c34e37059e31193807f19af189e29ef275bb6a2c218a14699b897a"
+    },
+    "sumeru-polish": {
+      "source": "xindoo/sumeru",
+      "sourceType": "github",
+      "skillPath": "skills/sumeru-polish/SKILL.md",
+      "computedHash": "2cc26007b01c1695aba07bc72599ff2b2b3651dae3fdf999f3fda6e459bb3e8c"
+    },
+    "sumeru-review": {
+      "source": "xindoo/sumeru",
+      "sourceType": "github",
+      "skillPath": "skills/sumeru-review/SKILL.md",
+      "computedHash": "630ad8ce64f459da3880e530c020a43742ac8eefa622eda61bacb8116b150844"
+    },
+    "sumeru-topic": {
+      "source": "xindoo/sumeru",
+      "sourceType": "github",
+      "skillPath": "skills/sumeru-topic/SKILL.md",
+      "computedHash": "db8d88e4e5de1a557626827793f510bbd225e5976a28b7512e01689595672d8c"
+    },
+    "sumeru-worldbuilder": {
+      "source": "xindoo/sumeru",
+      "sourceType": "github",
+      "skillPath": "skills/sumeru-worldbuilder/SKILL.md",
+      "computedHash": "54e0fb435dc558f569684761396a0e2742b739a3db706e3d9e0254696f337a32"
+    },
+    "sumeru-write": {
+      "source": "xindoo/sumeru",
+      "sourceType": "github",
+      "skillPath": "skills/sumeru-write/SKILL.md",
+      "computedHash": "14c34b2ec33436c33c57983c14acddc359887e5d40c5e4b6a059aacaa07aa872"
+    }
+  }
+}
