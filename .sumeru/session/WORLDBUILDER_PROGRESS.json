@@ -2,7 +2,7 @@
   "session_id": "session-20261004-sanqianpangmen",
   "created_at": "2026-10-04",
   "updated_at": "2026-10-05",
-  "current_stage": "polish",
+  "current_stage": "round1_done",
   "stages": {
     "topic": {
       "status": "completed",
@@ -51,12 +51,22 @@
       "bottom_line_all_resolved": true
     },
     "polish": {
-      "status": "in_progress",
+      "status": "completed",
       "polish_level": "moderate",
-      "style": "写实都市+克制的玄"
+      "style": "写实都市+克制的玄",
+      "output_files": [
+        ".sumeru/polish/summary.json",
+        ".sumeru/polish/diff/"
+      ],
+      "statistics": {
+        "hanzi_before": 99319,
+        "hanzi_after": 101335
+      }
     },
     "finalize": {
-      "status": "skipped_this_round"
+      "status": "skipped_this_round",
+      "note": "第一卷写完后再导出发布版本"
     }
-  }
+  },
+  "next": "下一轮：生成第31-55章细纲（第一卷第二段），沿用style-guide与剧情审查报告第四节的统一设定"
 }
