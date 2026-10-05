@@ -4,7 +4,14 @@
     "totalChapters": 30,
     "plannedTotalChapters": 500,
     "volumes": [
-      {"volumeNumber": 1, "volumeName": "迷途篇", "chapterStart": 1, "chapterEnd": 80, "coreConflict": "浊气缠身的底层生存与旁门诱惑；清浊→坚信→得引渡→感应初开", "outlinedRange": "1-30"}
+      {
+        "volumeNumber": 1,
+        "volumeName": "迷途篇",
+        "chapterStart": 1,
+        "chapterEnd": 80,
+        "coreConflict": "浊气缠身的底层生存与旁门诱惑；清浊→坚信→得引渡→感应初开",
+        "outlinedRange": "1-30"
+      }
     ],
     "rhythmRule": "每3章一个单元：第1章蓄水、第2章加压、第3章倾泻（爽点+章末钩子）；打脸单元≤1/3；相邻单元爽点类型不重复",
     "timeline": "第1章三月初 → 第30章六月下旬（梅雨季）",
@@ -12,10 +19,23 @@
   },
   "chapters": [
     {
-      "chapterNumber": 1, "chapterTitle": "夜班", "suggestedWords": "3000-3500",
-      "unit": 1, "unitPosition": "蓄水", "coolPointType": "机缘", "growthStage": "迷途（浊气缠身）", "time": "三月初，周三凌晨至清晨",
+      "chapterNumber": 1,
+      "chapterTitle": "夜班",
+      "suggestedWords": "3000-3500",
+      "unit": 1,
+      "unitPosition": "蓄水",
+      "coolPointType": "机缘",
+      "growthStage": "迷途（浊气缠身）",
+      "time": "三月初，周三凌晨至清晨",
       "coreEvent": "孟实连续失眠夜班出错被罚，下班路过柳巷菜市场口，修鞋老头一句话说中他的处境。",
-      "characters": ["孟实", "马红霞", "周广发", "赵小满", "老耿", "孟实母亲（语音）"],
+      "characters": [
+        "孟实",
+        "马红霞",
+        "周广发",
+        "赵小满",
+        "老耿",
+        "孟实母亲（语音）"
+      ],
       "plotProgression": [
         "凌晨三点通衢物流园分拣线，孟实连续第四天失眠，眼前发虚扫错两件，被组长马红霞吼；倒车的叉车差点擦到他，司机反骂他不长眼",
         "夜班主管周广发巡线抓到错件，当众记罚绩效200，拿他当反面典型；赵小满偷偷塞给他一块巧克力",
@@ -28,13 +48,26 @@
       "foreshadowing": "老头说话时目光落在孟实身后的空处；开光吊坠被他扔在抽屉里",
       "connection": "承接：开篇；引出：下章与老头的周旋",
       "location": "通衢物流园分拣中心、公交车、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "压抑、疲惫→一丝寒意", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "压抑、疲惫→一丝寒意",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 2, "chapterTitle": "修鞋的老头", "suggestedWords": "3000-3500",
-      "unit": 1, "unitPosition": "加压", "coolPointType": "机缘", "growthStage": "迷途", "time": "三月初，同日白天至次日清晨",
+      "chapterNumber": 2,
+      "chapterTitle": "修鞋的老头",
+      "suggestedWords": "3000-3500",
+      "unit": 1,
+      "unitPosition": "加压",
+      "coolPointType": "机缘",
+      "growthStage": "迷途",
+      "time": "三月初，同日白天至次日清晨",
       "coreEvent": "孟实把老耿当骗子，却因鞋底开胶不得不去补鞋；老耿不收钱，只让他来帮忙收摊。",
-      "characters": ["孟实", "老耿", "房东", "赵小满"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "房东",
+        "赵小满"
+      ],
       "plotProgression": [
         "孟实冷着脸走开，骂自己差点又上套；回出租屋躺下照样睡不着，耳边总是那句话",
         "接连倒霉：下午出门鞋底整块开胶，踩了一脚积水；房东在楼道里催租，话说得难听；附近只有菜市场口那一个修鞋摊",
@@ -47,13 +80,25 @@
       "foreshadowing": "老耿补鞋时说“鞋底开了，是走的路不对”（一语双关，不点破）",
       "connection": "承接：老头那句话；引出：下章去收摊",
       "location": "槐荫里出租屋、柳巷菜市场口修鞋摊、物流园",
-      "pov": "孟实视角", "mood": "戒备、烦躁→动摇", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "戒备、烦躁→动摇",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 3, "chapterTitle": "一个整觉", "suggestedWords": "3000-3500",
-      "unit": 1, "unitPosition": "倾泻", "coolPointType": "机缘/身体回升", "growthStage": "清浊（开始）", "time": "三月初，调休日傍晚至次日中午",
+      "chapterNumber": 3,
+      "chapterTitle": "一个整觉",
+      "suggestedWords": "3000-3500",
+      "unit": 1,
+      "unitPosition": "倾泻",
+      "coolPointType": "机缘/身体回升",
+      "growthStage": "清浊（开始）",
+      "time": "三月初，调休日傍晚至次日中午",
       "coreEvent": "孟实带着戒备去帮老耿收摊，老耿随手拍了他后背三下；当夜他睡了三年来第一个整觉。",
-      "characters": ["孟实", "老耿", "卖豆腐的大婶"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "卖豆腐的大婶"
+      ],
       "plotProgression": [
         "调休日傍晚五点，孟实还是去了菜市场口，心里想好：他一开口要钱，扭头就走",
         "帮老耿收摊：鞋楦按大小装箱、补鞋机盖布、铁皮箱抬上三轮车，二十分钟；老耿一句修行的话不提，只问他几点睡、吃不吃早饭",
@@ -66,13 +111,27 @@
       "foreshadowing": "老耿对空处说“走吧”；卖豆腐大婶说老耿在这摆了快二十年",
       "connection": "承接：决定去收摊；引出：下章天天去收摊",
       "location": "柳巷菜市场口、槐荫里出租屋",
-      "pov": "孟实视角", "mood": "戒备→困惑→久违的轻松", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "戒备→困惑→久违的轻松",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 4, "chapterTitle": "不要钱的才最贵", "suggestedWords": "3000-3500",
-      "unit": 2, "unitPosition": "蓄水", "coolPointType": "身体回升/逆转", "growthStage": "清浊", "time": "三月中旬",
+      "chapterNumber": 4,
+      "chapterTitle": "不要钱的才最贵",
+      "suggestedWords": "3000-3500",
+      "unit": 2,
+      "unitPosition": "蓄水",
+      "coolPointType": "身体回升/逆转",
+      "growthStage": "清浊",
+      "time": "三月中旬",
       "coreEvent": "孟实开始每天帮老耿收摊，被同事嘲笑“又找大师”；老耿什么都不教，还拒绝了别人的钱。",
-      "characters": ["孟实", "老耿", "赵小满", "卖豆腐的大婶", "体面的中年男人"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "赵小满",
+        "卖豆腐的大婶",
+        "体面的中年男人"
+      ],
       "plotProgression": [
         "孟实每天傍晚上班前去帮老耿收摊（五点到五点半），再赶公交去园区",
         "赵小满发现他天天往菜市场跑，追问后在班组里大笑：“又找大师？上回那个开光的说你印堂发黑，收了你三千六！”同事起哄叫他“孟大仙”",
@@ -85,13 +144,26 @@
       "foreshadowing": "“不贪，不求，不怕吃亏”贯穿全书",
       "connection": "承接：第一个整觉；引出：下章排浊反应",
       "location": "柳巷菜市场口、物流园分拣中心",
-      "pov": "孟实视角", "mood": "半信半疑、轻微好转", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "半信半疑、轻微好转",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 5, "chapterTitle": "扫屋子", "suggestedWords": "3000-3500",
-      "unit": 2, "unitPosition": "加压", "coolPointType": "身体回升/逆转", "growthStage": "清浊（排浊反应）", "time": "三月中下旬",
+      "chapterNumber": 5,
+      "chapterTitle": "扫屋子",
+      "suggestedWords": "3000-3500",
+      "unit": 2,
+      "unitPosition": "加压",
+      "coolPointType": "身体回升/逆转",
+      "growthStage": "清浊（排浊反应）",
+      "time": "三月中下旬",
       "coreEvent": "孟实出现排浊反应，比以前更难受，又被主管抓到打盹重罚；他质问老耿，老耿只说“扫的时候灰最大”。",
-      "characters": ["孟实", "老耿", "周广发", "赵小满"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "周广发",
+        "赵小满"
+      ],
       "plotProgression": [
         "第二周起，孟实一阵阵发冷、出虚汗、拉肚子、浑身酸痛、做乱梦，比以前更难受",
         "第一反应：被下了什么东西？他想起当年灵修营也是先好后坏，恐慌又愤怒",
@@ -104,13 +176,28 @@
       "foreshadowing": "“先甜后苦”与“先苦”的对照，为第9章“借来的”铺垫",
       "connection": "承接：天天收摊；引出：下章反应消退、整班零错件",
       "location": "槐荫里出租屋、物流园、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "痛苦、怀疑、愤怒→咬牙", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "痛苦、怀疑、愤怒→咬牙",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 6, "chapterTitle": "零错件", "suggestedWords": "3000-3500",
-      "unit": 2, "unitPosition": "倾泻", "coolPointType": "身体回升/逆转", "growthStage": "清浊（初见成效）", "time": "三月下旬",
+      "chapterNumber": 6,
+      "chapterTitle": "零错件",
+      "suggestedWords": "3000-3500",
+      "unit": 2,
+      "unitPosition": "倾泻",
+      "coolPointType": "身体回升/逆转",
+      "growthStage": "清浊（初见成效）",
+      "time": "三月下旬",
       "coreEvent": "排浊反应退去，孟实整夜头脑清醒、零错件，被组长当众表扬；老耿说他“轻了”；发小阿杰联系他。",
-      "characters": ["孟实", "马红霞", "周广发", "赵小满", "老耿", "邹家杰（消息）"],
+      "characters": [
+        "孟实",
+        "马红霞",
+        "周广发",
+        "赵小满",
+        "老耿",
+        "邹家杰（消息）"
+      ],
       "plotProgression": [
         "第三周，排浊反应渐退；一个夜班开始时，他忽然发现脑子清楚：分拣线的声音不刺耳了，眼睛不花，手稳",
         "整夜没犯困，扫描零错件，效率全组第三；他还发现一箱贴错地址标签的货，及时拦下，避免了大客户投诉",
@@ -123,13 +210,25 @@
       "foreshadowing": "周广发记恨马红霞当众提罚款",
       "connection": "承接：熬过排浊；引出：下章阿杰请吃饭",
       "location": "物流园分拣中心、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "清爽、意外、温热", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "清爽、意外、温热",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 7, "chapterTitle": "老乡", "suggestedWords": "3000-3500",
-      "unit": 3, "unitPosition": "蓄水", "coolPointType": "信息差暗爽", "growthStage": "清浊", "time": "三月末周末",
+      "chapterNumber": 7,
+      "chapterTitle": "老乡",
+      "suggestedWords": "3000-3500",
+      "unit": 3,
+      "unitPosition": "蓄水",
+      "coolPointType": "信息差暗爽",
+      "growthStage": "清浊",
+      "time": "三月末周末",
       "coreEvent": "发小阿杰请孟实吃饭，展示加入明心灵修会后的风光，拉他入会。",
-      "characters": ["孟实", "邹家杰", "老耿"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "老耿"
+      ],
       "plotProgression": [
         "阿杰在一家不便宜的湘菜馆请客，气色红润、穿着讲究，满口“能量”“频率”“感恩”，眼睛亮得有点过头",
         "阿杰讲半年前加入明心灵修会，第一次课就浑身发热、流泪，从此睡得少却不累，保险业绩翻倍，现在是小组长，月入两万多",
@@ -142,13 +241,26 @@
       "foreshadowing": "阿杰说“睡得少却不累”——与孟实当年灵修营的经历一样",
       "connection": "承接：阿杰私信；引出：下章体验课",
       "location": "湘菜馆、物流园、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "羡慕、动摇", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "羡慕、动摇",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 8, "chapterTitle": "满堂哄笑", "suggestedWords": "3000-3500",
-      "unit": 3, "unitPosition": "加压", "coolPointType": "信息差暗爽", "growthStage": "清浊", "time": "三月末周六下午",
+      "chapterNumber": 8,
+      "chapterTitle": "满堂哄笑",
+      "suggestedWords": "3000-3500",
+      "unit": 3,
+      "unitPosition": "加压",
+      "coolPointType": "信息差暗爽",
+      "growthStage": "清浊",
+      "time": "三月末周六下午",
       "coreEvent": "体验课上众人纷纷“感应”，孟实毫无感觉，被贺明远当众断言“浊气太重、福报不够”，满堂哄笑。",
-      "characters": ["孟实", "邹家杰", "贺明远", "灵修会学员与工作人员"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "贺明远",
+        "灵修会学员与工作人员"
+      ],
       "plotProgression": [
         "汇澜中心28楼：檀香、低频音乐、落地窗、白衣工作人员，学员有老板、白领、中年女人；孟实穿着工装外套，格格不入",
         "贺明远出场：四十多岁，中式立领，声音温厚，讲“人人皆有灵性，只是被浊气蒙蔽”，讲得极有道理，孟实都被打动",
@@ -161,13 +273,25 @@
       "foreshadowing": "“感应”只在那间屋里才有；阿杰手腕上戴着灵修会的手串",
       "connection": "承接：答应去体验课；引出：下章老耿点破",
       "location": "汇澜中心28楼明心灵修会",
-      "pov": "孟实视角", "mood": "被打动→屈辱→自我怀疑", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "被打动→屈辱→自我怀疑",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 9, "chapterTitle": "借来的", "suggestedWords": "3000-3500",
-      "unit": 3, "unitPosition": "倾泻", "coolPointType": "信息差暗爽", "growthStage": "清浊", "time": "三月末周日傍晚至深夜",
+      "chapterNumber": 9,
+      "chapterTitle": "借来的",
+      "suggestedWords": "3000-3500",
+      "unit": 3,
+      "unitPosition": "倾泻",
+      "coolPointType": "信息差暗爽",
+      "growthStage": "清浊",
+      "time": "三月末周日傍晚至深夜",
       "coreEvent": "老耿三个问题点破“感应”的本质：借来的，早晚要还；孟实看穿自己当年的经历和阿杰的现在。",
-      "characters": ["孟实", "老耿", "邹家杰（朋友圈）"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "邹家杰（朋友圈）"
+      ],
       "plotProgression": [
         "收摊时孟实第一次主动开口，把体验课的事一五一十说了，也说了那句“福报不够”",
         "老耿问三个问题：发热发抖，是不是一进那屋就有？离开那屋子是不是就没了、得常去？去得越多，是不是越离不开？孟实一一点头",
@@ -180,13 +304,26 @@
       "foreshadowing": "“借来的，早晚要还”——阿杰线的总伏笔",
       "connection": "承接：被羞辱；引出：下章停滞与考验",
       "location": "柳巷菜市场口、槐荫里出租屋",
-      "pov": "孟实视角", "mood": "震动→清醒→隐忧", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "震动→清醒→隐忧",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 10, "chapterTitle": "停滞", "suggestedWords": "3000-3500",
-      "unit": 4, "unitPosition": "蓄水", "coolPointType": "心性胜出", "growthStage": "清浊（反复）", "time": "四月上旬",
+      "chapterNumber": 10,
+      "chapterTitle": "停滞",
+      "suggestedWords": "3000-3500",
+      "unit": 4,
+      "unitPosition": "蓄水",
+      "coolPointType": "心性胜出",
+      "growthStage": "清浊（反复）",
+      "time": "四月上旬",
       "coreEvent": "好转停滞甚至反复，倒霉事回潮，孟实开始怀疑一切；灵修会推出一万二“体验价”。",
-      "characters": ["孟实", "老耿", "赵小满", "邹家杰（消息）"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "赵小满",
+        "邹家杰（消息）"
+      ],
       "plotProgression": [
         "一个多月了，好转停住，甚至反复：失眠回来两三天，乏力，早上头沉",
         "倒霉事冒头：手机屏摔碎、被外卖电动车蹭破裤子、夜班系统故障被安排加班却没有加班费",
@@ -199,13 +336,28 @@
       "foreshadowing": "老耿说的“最难的一段”正在到来",
       "connection": "承接：老耿预言；引出：下章家里出事",
       "location": "槐荫里、物流园、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "低迷、怀疑", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "低迷、怀疑",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 11, "chapterTitle": "一万二", "suggestedWords": "3000-3500",
-      "unit": 4, "unitPosition": "加压", "coolPointType": "心性胜出", "growthStage": "清浊", "time": "四月上旬",
+      "chapterNumber": 11,
+      "chapterTitle": "一万二",
+      "suggestedWords": "3000-3500",
+      "unit": 4,
+      "unitPosition": "加压",
+      "coolPointType": "心性胜出",
+      "growthStage": "清浊",
+      "time": "四月上旬",
       "coreEvent": "父亲要住院押金一万，阿杰许诺入会就借钱；孟实站在灵修会楼下，最终转身，选了最苦的路。",
-      "characters": ["孟实", "孟实母亲", "邹家杰", "赵小满", "马红霞", "周广发"],
+      "characters": [
+        "孟实",
+        "孟实母亲",
+        "邹家杰",
+        "赵小满",
+        "马红霞",
+        "周广发"
+      ],
       "plotProgression": [
         "深夜母亲来电：父亲咳得厉害，县医院让住院观察做检查，先交押金一万；孟实手上只有四千出头",
         "周广发以“上次打盹”为由本月绩效再扣，工资条比预期少五百",
@@ -218,13 +370,27 @@
       "foreshadowing": "马红霞的善意（后续推荐他调白班）",
       "connection": "承接：停滞与一万二；引出：下章熬过一周",
       "location": "槐荫里、物流园、汇澜中心楼下",
-      "pov": "孟实视角", "mood": "焦灼、挣扎→决绝", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "焦灼、挣扎→决绝",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 12, "chapterTitle": "过坎", "suggestedWords": "3000-3500",
-      "unit": 4, "unitPosition": "倾泻", "coolPointType": "心性胜出（中爽点）", "growthStage": "清浊小成", "time": "四月中旬",
+      "chapterNumber": 12,
+      "chapterTitle": "过坎",
+      "suggestedWords": "3000-3500",
+      "unit": 4,
+      "unitPosition": "倾泻",
+      "coolPointType": "心性胜出（中爽点）",
+      "growthStage": "清浊小成",
+      "time": "四月中旬",
       "coreEvent": "连熬一周双班，孟实不但没垮，身体反而明显跃升；老耿说他“过了一道坎”。",
-      "characters": ["孟实", "老耿", "赵小满", "马红霞", "孟实母亲（电话）"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "赵小满",
+        "马红霞",
+        "孟实母亲（电话）"
+      ],
       "plotProgression": [
         "一周双班：白天搬货晚上分拣，每天睡四五个小时，所有人都以为他会垮",
         "押金打回家，父亲检查结果暂时稳定（慢性肺病需长期用药），母亲电话里说“你别太累”",
@@ -237,13 +403,27 @@
       "foreshadowing": "高价货丢件",
       "connection": "承接：双班；引出：下章被甩锅",
       "location": "物流园、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "疲惫→惊喜→笃定", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "疲惫→惊喜→笃定",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 13, "chapterTitle": "锅", "suggestedWords": "3000-3500",
-      "unit": 5, "unitPosition": "蓄水", "coolPointType": "打脸·轻", "growthStage": "清浊小成", "time": "四月中下旬",
+      "chapterNumber": 13,
+      "chapterTitle": "锅",
+      "suggestedWords": "3000-3500",
+      "unit": 5,
+      "unitPosition": "蓄水",
+      "coolPointType": "打脸·轻",
+      "growthStage": "清浊小成",
+      "time": "四月中下旬",
       "coreEvent": "价值六千八的货丢失，周广发把表弟造成的丢件甩锅给孟实，逼他签赔偿书。",
-      "characters": ["孟实", "周广发", "周小军", "赵小满", "马红霞"],
+      "characters": [
+        "孟实",
+        "周广发",
+        "周小军",
+        "赵小满",
+        "马红霞"
+      ],
       "plotProgression": [
         "一批高价手机配件（六千八）在夜班丢失，监控显示最后经手的是孟实那一排格口",
         "周广发当众认定是孟实失误：要么赔，要么走人；孟实记得那晚交接时，周广发的表弟周小军（临时工）在他格口附近绕过扫码搬过货",
@@ -256,13 +436,27 @@
       "foreshadowing": "周小军的手脚",
       "connection": "承接：丢件传闻；引出：下章不争",
       "location": "物流园分拣中心、主管办公室",
-      "pov": "孟实视角", "mood": "憋屈、愤怒", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "憋屈、愤怒",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 14, "chapterTitle": "不争", "suggestedWords": "3000-3500",
-      "unit": 5, "unitPosition": "加压", "coolPointType": "打脸·轻", "growthStage": "清浊小成", "time": "四月下旬",
+      "chapterNumber": 14,
+      "chapterTitle": "不争",
+      "suggestedWords": "3000-3500",
+      "unit": 5,
+      "unitPosition": "加压",
+      "coolPointType": "打脸·轻",
+      "growthStage": "清浊小成",
+      "time": "四月下旬",
       "coreEvent": "孟实不签不吵，写下一份只有事实、不带指控的说明，托马红霞转交园区；周广发当众辱骂并逼他清柜子。",
-      "characters": ["孟实", "老耿", "马红霞", "周广发", "同事们"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "马红霞",
+        "周广发",
+        "同事们"
+      ],
       "plotProgression": [
         "孟实请教老耿，老耿说：“不争，不是不说。是不带火气地说。说完了，就别惦记。”",
         "他把那晚的事按时间写下来：交接单时间、自己每一单的扫描记录（系统可查，近两个月零错件）、周小军出现的时间点；不写一句指控，只写事实",
@@ -275,13 +469,29 @@
       "foreshadowing": "稽核组进场",
       "connection": "承接：被逼签字；引出：下章真相大白",
       "location": "柳巷菜市场口、物流园",
-      "pov": "孟实视角", "mood": "压抑、孤立→一线转机", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "压抑、孤立→一线转机",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 15, "chapterTitle": "白班", "suggestedWords": "3000-3500",
-      "unit": 5, "unitPosition": "倾泻", "coolPointType": "打脸·轻（中爽点）", "growthStage": "清浊小成", "time": "四月底",
+      "chapterNumber": 15,
+      "chapterTitle": "白班",
+      "suggestedWords": "3000-3500",
+      "unit": 5,
+      "unitPosition": "倾泻",
+      "coolPointType": "打脸·轻（中爽点）",
+      "growthStage": "清浊小成",
+      "time": "四月底",
       "coreEvent": "稽核查明周小军偷货、周广发包庇，二人一开除一降职；孟实被澄清并调白班复核员。",
-      "characters": ["孟实", "马红霞", "周广发", "周小军", "稽核组长", "赵小满", "老耿"],
+      "characters": [
+        "孟实",
+        "马红霞",
+        "周广发",
+        "周小军",
+        "稽核组长",
+        "赵小满",
+        "老耿"
+      ],
       "plotProgression": [
         "稽核组进场（整个园区近三月丢件率异常，并非只因孟实的说明），调取全量扫描数据和多角度监控",
         "查明周小军多次绕过扫码夹带货物，周广发知情包庇并改过交接记录；周小军被开除移交处理，周广发降职调往外地网点",
@@ -294,13 +504,28 @@
       "foreshadowing": "来求的人",
       "connection": "承接：稽核进场；引出：下章来求的人",
       "location": "物流园、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "扬眉吐气但克制", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "扬眉吐气但克制",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 16, "chapterTitle": "来求的人", "suggestedWords": "3000-3500",
-      "unit": 6, "unitPosition": "蓄水", "coolPointType": "收获/人情", "growthStage": "清浊", "time": "四月底至五月初",
+      "chapterNumber": 16,
+      "chapterTitle": "来求的人",
+      "suggestedWords": "3000-3500",
+      "unit": 6,
+      "unitPosition": "蓄水",
+      "coolPointType": "收获/人情",
+      "growthStage": "清浊",
+      "time": "4月26–27日",
       "coreEvent": "来求老耿的人一个个被“干杂活”劝退，最后只剩孟实。",
-      "characters": ["孟实", "老耿", "开豪车的女人", "小吴", "中年老板", "卖豆腐的大婶"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "开豪车的女人",
+        "小吴",
+        "中年老板",
+        "卖豆腐的大婶"
+      ],
       "plotProgression": [
         "白班后孟实每天五点到摊子，做完杂活再回家；来找老耿的人多了：开豪车的女人（儿子长年体弱）、看了网帖来找“高人”的年轻人小吴、生意失败的中年老板",
         "老耿对谁都一样：不收钱，不看相，不讲玄的，只让人帮着收摊、扫地、给补鞋机上油",
@@ -313,13 +538,27 @@
       "foreshadowing": "老耿递茶——认可的开始",
       "connection": "承接：来求的人；引出：下章老耿的考验",
       "location": "柳巷菜市场口",
-      "pov": "孟实视角", "mood": "平淡中有暗流", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "平淡中有暗流",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 17, "chapterTitle": "两百块", "suggestedWords": "3000-3500",
-      "unit": 6, "unitPosition": "加压", "coolPointType": "收获/人情", "growthStage": "清浊", "time": "五月初（五一前几天）",
+      "chapterNumber": 17,
+      "chapterTitle": "两百块",
+      "suggestedWords": "3000-3500",
+      "unit": 6,
+      "unitPosition": "加压",
+      "coolPointType": "收获/人情",
+      "growthStage": "清浊",
+      "time": "4月28–30日",
       "coreEvent": "老耿反复折腾孟实，还当众冤枉他拿了钱盒里的两百；孟实委屈到极点，回头垫上了钱。",
-      "characters": ["孟实", "老耿", "卖豆腐的大婶", "周围摊主", "捡破烂的哑巴老太太"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "卖豆腐的大婶",
+        "周围摊主",
+        "捡破烂的哑巴老太太"
+      ],
       "plotProgression": [
         "老耿开始“折腾”他：鞋楦排好了让打乱重排，一晚上五遍；让他把鞋钉按长短分开，分了一个小时",
         "孟实心里起火又压下去：过去三年交钱的时候，他比这卑微多了",
@@ -332,13 +571,24 @@
       "foreshadowing": "哑巴老太太（老耿的善）",
       "connection": "承接：只剩孟实；引出：下章一句真话",
       "location": "柳巷菜市场口",
-      "pov": "孟实视角", "mood": "憋屈→委屈→释然", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "憋屈→委屈→释然",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 18, "chapterTitle": "一句真话", "suggestedWords": "3000-3500",
-      "unit": 6, "unitPosition": "倾泻", "coolPointType": "收获/人情", "growthStage": "清浊（七成）", "time": "五一前夜",
+      "chapterNumber": 18,
+      "chapterTitle": "一句真话",
+      "suggestedWords": "3000-3500",
+      "unit": 6,
+      "unitPosition": "倾泻",
+      "coolPointType": "收获/人情",
+      "growthStage": "清浊（七成）",
+      "time": "4月30日夜（五一前夜）",
       "coreEvent": "老耿带孟实到澜水河滩，教他站桩，说出第一句真话；还问起他小时候的梦。",
-      "characters": ["孟实", "老耿"],
+      "characters": [
+        "孟实",
+        "老耿"
+      ],
       "plotProgression": [
         "收摊后老耿第一次说“跟我走”，带他到澜水河滩，天黑，河风凉",
         "老耿教他站桩：两脚与肩同宽，膝微屈，手松垂，什么也别想，不求感应，“站着就是站着”；孟实站了二十分钟，腿抖、脑子乱、什么都没感觉到，老耿说：“对了，就是这样。”",
@@ -351,13 +601,28 @@
       "foreshadowing": "童年黑水之梦（前世线）；“灵气没开”",
       "connection": "承接：两百块考验；引出：下章五一回乡",
       "location": "澜水河滩",
-      "pov": "孟实视角", "mood": "静、深、隐隐震动", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "静、深、隐隐震动",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 19, "chapterTitle": "衣锦还乡", "suggestedWords": "3000-3500",
-      "unit": 7, "unitPosition": "蓄水", "coolPointType": "信息差暗爽", "growthStage": "清浊（七成）", "time": "五一假期第一天",
+      "chapterNumber": 19,
+      "chapterTitle": "衣锦还乡",
+      "suggestedWords": "3000-3500",
+      "unit": 7,
+      "unitPosition": "蓄水",
+      "coolPointType": "信息差暗爽",
+      "growthStage": "清浊（七成）",
+      "time": "五一假期第一天",
       "coreEvent": "孟实回槐水县参加表哥婚礼，阿杰开着贷款买的新车风光还乡。",
-      "characters": ["孟实", "邹家杰", "邹婶", "孟大河", "秦秀兰", "村里人"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "邹婶",
+        "孟大河",
+        "秦秀兰",
+        "村里人"
+      ],
       "plotProgression": [
         "五一表哥孟磊结婚，孟实请假回槐水县，坐四个半小时大巴",
         "阿杰开着一辆新的黑色SUV回村（贷款），车上塞满礼品，村口一片围观，邹婶满脸放光",
@@ -370,13 +635,28 @@
       "foreshadowing": "黄布牌位；“能量水”",
       "connection": "承接：五一；引出：下章饭局",
       "location": "大巴、孟家洼村口、孟家",
-      "pov": "孟实视角", "mood": "乡愁、微酸", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "乡愁、微酸",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 20, "chapterTitle": "饭局", "suggestedWords": "3000-3500",
-      "unit": 7, "unitPosition": "加压", "coolPointType": "信息差暗爽", "growthStage": "清浊（七成）", "time": "五一第二天",
+      "chapterNumber": 20,
+      "chapterTitle": "饭局",
+      "suggestedWords": "3000-3500",
+      "unit": 7,
+      "unitPosition": "加压",
+      "coolPointType": "信息差暗爽",
+      "growthStage": "清浊（七成）",
+      "time": "五一第二天",
       "coreEvent": "婚宴上亲戚捧阿杰踩孟实，阿杰当众要“带带”他；母亲在厨房抹眼泪。",
-      "characters": ["孟实", "邹家杰", "孟大江", "邹婶", "秦秀兰", "亲戚们"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "孟大江",
+        "邹婶",
+        "秦秀兰",
+        "亲戚们"
+      ],
       "plotProgression": [
         "婚宴上阿杰坐主桌，亲戚轮番敬酒；孟实坐边桌，有人问：“实子还在仓库扛箱子？二十七了对象都没有？”",
         "二叔孟大江借酒劲：“人家阿杰才是有出息，实子啊，跟着阿杰学学。”邹婶：“我们家杰说了，实子是福报浅，要发心。”",
@@ -389,13 +669,26 @@
       "foreshadowing": "阿杰深夜来访",
       "connection": "承接：回乡；引出：下章阿杰自曝",
       "location": "婚宴酒席、孟家厨房",
-      "pov": "孟实视角", "mood": "难堪、心疼母亲", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "难堪、心疼母亲",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 21, "chapterTitle": "要还的", "suggestedWords": "3000-3500",
-      "unit": 7, "unitPosition": "倾泻", "coolPointType": "信息差暗爽", "growthStage": "清浊（七成）", "time": "五一第二天深夜至第三天",
+      "chapterNumber": 21,
+      "chapterTitle": "要还的",
+      "suggestedWords": "3000-3500",
+      "unit": 7,
+      "unitPosition": "倾泻",
+      "coolPointType": "信息差暗爽",
+      "growthStage": "清浊（七成）",
+      "time": "五一第二天深夜至第三天",
       "coreEvent": "醉酒的阿杰卸下光鲜：失眠心悸、负债十几万、停不下来；孟实劝他，被骂嫉妒。当夜父亲咳血。",
-      "characters": ["孟实", "邹家杰", "村里婶子", "孟大河"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "村里婶子",
+        "孟大河"
+      ],
       "plotProgression": [
         "村口晒谷场，阿杰醉醺醺卸下光鲜：一个多月睡不好，心跳快得吓人，“感应”有时不受控地来，半夜浑身发抖；进阶费一级比一级贵，他已欠十几万，车是贷款的，下线拉不够就得自己垫",
         "他说贺老师讲这是“排业”，熬过去就“开悟”；他不能停，一停就“前功尽弃”，而且身体会更难受",
@@ -408,13 +701,28 @@
       "foreshadowing": "阿杰“停不下来”",
       "connection": "承接：深夜来访；引出：下章父亲住院",
       "location": "孟家洼晒谷场、孟家",
-      "pov": "孟实视角", "mood": "心疼、无力→惊惧", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "心疼、无力→惊惧",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 22, "chapterTitle": "黄布牌位", "suggestedWords": "3000-3500",
-      "unit": 8, "unitPosition": "蓄水", "coolPointType": "人情回报+前世钩子", "growthStage": "清浊（七成）", "time": "五一第三天起",
+      "chapterNumber": 22,
+      "chapterTitle": "黄布牌位",
+      "suggestedWords": "3000-3500",
+      "unit": 8,
+      "unitPosition": "蓄水",
+      "coolPointType": "人情回报+前世钩子",
+      "growthStage": "清浊（七成）",
+      "time": "五一第三天起",
       "coreEvent": "父亲急性加重住院，母亲认定是牌位“没供好”，二叔逼孟实出八千做法事；孟实第一次给老耿打电话。",
-      "characters": ["孟实", "孟大河", "秦秀兰", "孟大江", "邹家杰（电话）", "医生"],
+      "characters": [
+        "孟实",
+        "孟大河",
+        "秦秀兰",
+        "孟大江",
+        "邹家杰（电话）",
+        "医生"
+      ],
       "plotProgression": [
         "凌晨送父亲到槐水县人民医院急诊：慢性肺病急性加重，需住院，医生说要看治疗反应",
         "母亲崩溃，说家里这两年不顺都是后屋那块牌位“没供好”——村里的“明白人”说要做一场法事，八千块",
@@ -427,13 +735,29 @@
       "foreshadowing": "牌位的来历（第一卷中段回收）",
       "connection": "承接：父亲咳血；引出：下章不碰不求",
       "location": "槐水县人民医院、孟家后屋",
-      "pov": "孟实视角", "mood": "焦灼、压抑", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "焦灼、压抑",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 23, "chapterTitle": "不碰，不求", "suggestedWords": "3000-3500",
-      "unit": 8, "unitPosition": "加压", "coolPointType": "人情回报+前世钩子", "growthStage": "清浊（七成）", "time": "五月上旬",
+      "chapterNumber": 23,
+      "chapterTitle": "不碰，不求",
+      "suggestedWords": "3000-3500",
+      "unit": 8,
+      "unitPosition": "加压",
+      "coolPointType": "人情回报+前世钩子",
+      "growthStage": "清浊（七成）",
+      "time": "五月上旬",
       "coreEvent": "孟实按老耿说的不碰、不求，钱全花在医院；被母亲骂不孝、被二叔说“信邪不信祖宗”；父亲病重。",
-      "characters": ["孟实", "老耿（电话）", "秦秀兰", "孟大江", "邹婶", "孟大河", "医生"],
+      "characters": [
+        "孟实",
+        "老耿（电话）",
+        "秦秀兰",
+        "孟大江",
+        "邹婶",
+        "孟大河",
+        "医生"
+      ],
       "plotProgression": [
         "老耿在电话里只说：“那东西你别碰，别烧，别骂，也别求。你爹的病，该看医生看医生，钱花在医院。你多在那屋待着，心里别怕。”",
         "孟实照做：白天在医院陪护、问清用药；晚上回家把后屋打扫干净，在屋里静静站桩，不上香，不磕头，也不动那块牌位",
@@ -446,13 +770,27 @@
       "foreshadowing": "孟实在后屋站桩，屋里渐渐不再阴冷（下章由母亲说出）",
       "connection": "承接：给老耿打电话；引出：下章转机与梦",
       "location": "槐水县人民医院、孟家后屋",
-      "pov": "孟实视角", "mood": "撕裂、孤立、咬牙", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "撕裂、孤立、咬牙",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 24, "chapterTitle": "黑水", "suggestedWords": "3000-3500",
-      "unit": 8, "unitPosition": "倾泻", "coolPointType": "人情回报+前世钩子", "growthStage": "清浊（七成余）", "time": "五月中旬",
+      "chapterNumber": 24,
+      "chapterTitle": "黑水",
+      "suggestedWords": "3000-3500",
+      "unit": 8,
+      "unitPosition": "倾泻",
+      "coolPointType": "人情回报+前世钩子",
+      "growthStage": "清浊（七成余）",
+      "time": "五月中旬",
       "coreEvent": "新医生调整方案，父亲转危为安；母亲说后屋“不那么阴了”；孟实做了从小到大最清楚的一次黑水之梦。",
-      "characters": ["孟实", "孟大河", "秦秀兰", "孟大江", "年轻呼吸科医生"],
+      "characters": [
+        "孟实",
+        "孟大河",
+        "秦秀兰",
+        "孟大江",
+        "年轻呼吸科医生"
+      ],
       "plotProgression": [
         "县医院来了一位从省城下乡轮转的年轻呼吸科医生，重新看片子，调整了用药",
         "第二天早上父亲退烧，第三天能喝粥，一周后转出病重（写实，不写神迹——只是时机恰好）",
@@ -465,13 +803,26 @@
       "foreshadowing": "黑水（穴场/妖魔线）与高处俯瞰人间灯火（仙人线）并埋",
       "connection": "承接：病重通知；引出：下章回澜城，雨季",
       "location": "槐水县人民医院、孟家、村口车站",
-      "pov": "孟实视角", "mood": "绝处逢生、温情、怅然", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "绝处逢生、温情、怅然",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 25, "chapterTitle": "雨季", "suggestedWords": "3000-3500",
-      "unit": 9, "unitPosition": "蓄水", "coolPointType": "趋吉避凶", "growthStage": "清浊（八成）", "time": "五月下旬至六月初",
+      "chapterNumber": 25,
+      "chapterTitle": "雨季",
+      "suggestedWords": "3000-3500",
+      "unit": 9,
+      "unitPosition": "蓄水",
+      "coolPointType": "趋吉避凶",
+      "growthStage": "清浊（八成）",
+      "time": "五月下旬至六月初",
       "coreEvent": "澜城雷暴异常频繁，老耿说“开了口子了”；阿杰来借钱；赵小满约孟实去槐荫路口吃烧烤。",
-      "characters": ["孟实", "老耿", "邹家杰（电话）", "赵小满"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "邹家杰（电话）",
+        "赵小满"
+      ],
       "plotProgression": [
         "回到澜城，入梅提前，雷暴频繁；新闻说今年强对流天气比往年多三成，“罕见”",
         "孟实每晚去河滩站桩，已能站四十分钟不乱想；老耿看着天上的闪电，喃喃一句：“开了口子了。”孟实问什么开了，老耿不答",
@@ -484,13 +835,25 @@
       "foreshadowing": "雷暴频繁（大机缘征兆）；槐荫路口烧烤摊",
       "connection": "承接：回澜城；引出：下章胸闷",
       "location": "澜城、澜水河滩、槐荫里",
-      "pov": "孟实视角", "mood": "潮湿、静、隐隐不安", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "潮湿、静、隐隐不安",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 26, "chapterTitle": "胸闷", "suggestedWords": "3000-3500",
-      "unit": 9, "unitPosition": "加压", "coolPointType": "趋吉避凶", "growthStage": "感应萌芽", "time": "六月初，周三至周五",
+      "chapterNumber": 26,
+      "chapterTitle": "胸闷",
+      "suggestedWords": "3000-3500",
+      "unit": 9,
+      "unitPosition": "加压",
+      "coolPointType": "趋吉避凶",
+      "growthStage": "感应萌芽",
+      "time": "六月初，周三至周五",
       "coreEvent": "孟实每次经过槐荫路口都胸闷头晕，以为旧病复发；老耿让他别走那个路口；赵小满偏要去那吃烧烤。",
-      "characters": ["孟实", "老耿", "赵小满"],
+      "characters": [
+        "孟实",
+        "老耿",
+        "赵小满"
+      ],
       "plotProgression": [
         "周三傍晚下班，孟实从公交站走回槐荫里，经过槐荫路口时忽然胸口发闷、头晕、想吐、冷汗直冒；眼前一切如常，车来车往，烧烤摊正在支棚子",
         "他以为病又回来了，恐惧、沮丧：熬了三个月，难道全白费？",
@@ -503,13 +866,26 @@
       "foreshadowing": "只在那个路口才有的胸闷（阴性生灵布局）",
       "connection": "承接：烧烤之约；引出：下章路口",
       "location": "槐荫路口、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "恐惧、困惑、焦急", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "恐惧、困惑、焦急",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 27, "chapterTitle": "路口", "suggestedWords": "3000-3500",
-      "unit": 9, "unitPosition": "倾泻", "coolPointType": "趋吉避凶（中爽点）", "growthStage": "感应萌芽", "time": "六月初，周五夜至周六",
+      "chapterNumber": 27,
+      "chapterTitle": "路口",
+      "suggestedWords": "3000-3500",
+      "unit": 9,
+      "unitPosition": "倾泻",
+      "coolPointType": "趋吉避凶（中爽点）",
+      "growthStage": "感应萌芽",
+      "time": "六月初，周五夜至周六",
       "coreEvent": "孟实硬把赵小满拽走；当晚渣土车冲进槐荫路口，一死四伤；老耿第一次说出祸事前的布局。",
-      "characters": ["孟实", "赵小满", "老耿", "城中村居民"],
+      "characters": [
+        "孟实",
+        "赵小满",
+        "老耿",
+        "城中村居民"
+      ],
       "plotProgression": [
         "周五傍晚暴雨，赵小满执意去路口烧烤摊“占个好位”；孟实急了，第一次冲人发火，硬把他拽到另一条街的面馆，赵小满气得骂骂咧咧",
         "晚上八点多，暴雨中一辆渣土车刹车失灵，冲过槐荫路口，撞翻烧烤摊的棚子和旁边的公交站台",
@@ -522,13 +898,26 @@
       "foreshadowing": "“担子”——感应带来的因果（第二段展开）",
       "connection": "承接：劝不住赵小满；引出：下章阿杰出事",
       "location": "槐荫路口、另一条街的面馆、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "焦急→后怕→沉重", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "焦急→后怕→沉重",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 28, "chapterTitle": "闭关", "suggestedWords": "3000-3500",
-      "unit": 10, "unitPosition": "蓄水", "coolPointType": "打脸+钩子", "growthStage": "感应萌芽", "time": "六月中旬",
+      "chapterNumber": 28,
+      "chapterTitle": "闭关",
+      "suggestedWords": "3000-3500",
+      "unit": 10,
+      "unitPosition": "蓄水",
+      "coolPointType": "打脸+钩子",
+      "growthStage": "感应萌芽",
+      "time": "六月中旬",
       "coreEvent": "阿杰在灵修会“闭关”时晕倒住院，负债二十多万；灵修会传出学员猝死；会里的人来接阿杰。",
-      "characters": ["孟实", "邹家杰", "邹婶", "灵修会工作人员"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "邹婶",
+        "灵修会工作人员"
+      ],
       "plotProgression": [
         "半夜两点邹婶打来电话哭：阿杰在灵修会“闭关打坐”时晕倒，诊断严重心律失常、重度焦虑和睡眠障碍，有时认不清人",
         "网上开始流传：明心灵修会有高级学员在“闭关”中猝死，被内部说成“圆满坐化”；有家属在汇澜中心楼下拉横幅讨要进阶费",
@@ -541,13 +930,30 @@
       "foreshadowing": "“圆满坐化”（气丹成被收走的侧影，不点破）",
       "connection": "承接：阿杰借钱；引出：下章冲撞",
       "location": "澜城第一医院病房",
-      "pov": "孟实视角", "mood": "沉重、悲凉", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "沉重、悲凉",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 29, "chapterTitle": "冲撞", "suggestedWords": "3000-3500",
-      "unit": 10, "unitPosition": "加压", "coolPointType": "打脸+钩子", "growthStage": "感应萌芽", "time": "六月中下旬",
+      "chapterNumber": 29,
+      "chapterTitle": "冲撞",
+      "suggestedWords": "3000-3500",
+      "unit": 10,
+      "unitPosition": "加压",
+      "coolPointType": "打脸+钩子",
+      "growthStage": "感应萌芽",
+      "time": "六月中下旬",
       "coreEvent": "贺明远发文甩锅“浊气重的人冲撞”，矛头指向孟实；老家亲戚群炸了，邹婶找他要赔偿；孟实只是守着阿杰。",
-      "characters": ["孟实", "邹家杰", "邹婶", "灵修会工作人员", "贺明远（文章）", "孟大江", "秦秀兰（电话）", "老耿"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "邹婶",
+        "灵修会工作人员",
+        "贺明远（文章）",
+        "孟大江",
+        "秦秀兰（电话）",
+        "老耿"
+      ],
       "plotProgression": [
         "孟实拦住灵修会的人，说医生不让出院；对方客客气气，话却很重：“家属同意就行。”邹婶犹豫——她还信贺老师",
         "贺明远在灵修会公众号发文，暗指“某学员心不诚、身边有浊气重的人冲撞，导致反噬”；会里的人在老家群里点名：就是在仓库扛箱子的孟实，上次在会里就被贺老师看出浊气重",
@@ -560,13 +966,29 @@
       "foreshadowing": "贺明远背后有人（下章黑色轿车）",
       "connection": "承接：灵修会来人；引出：下章灵修会被查",
       "location": "澜城第一医院、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "委屈、愤怒→沉静", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "委屈、愤怒→沉静",
+      "volumeNumber": 1
     },
     {
-      "chapterNumber": 30, "chapterTitle": "一条缝", "suggestedWords": "3000-3500",
-      "unit": 10, "unitPosition": "倾泻", "coolPointType": "打脸（事实打脸）+钩子", "growthStage": "清浊大成（门开一条缝）", "time": "六月下旬",
+      "chapterNumber": 30,
+      "chapterTitle": "一条缝",
+      "suggestedWords": "3000-3500",
+      "unit": 10,
+      "unitPosition": "倾泻",
+      "coolPointType": "打脸（事实打脸）+钩子",
+      "growthStage": "清浊大成（门开一条缝）",
+      "time": "六月下旬",
       "coreEvent": "明心灵修会被查封，舆论翻转；雷雨夜老耿说“门开了一条缝”，提及几千年一开的东西；一辆黑色轿车盯上修鞋摊。",
-      "characters": ["孟实", "邹家杰", "邹婶", "秦秀兰（电话）", "孟大江（群消息）", "老耿", "黑色轿车里的人"],
+      "characters": [
+        "孟实",
+        "邹家杰",
+        "邹婶",
+        "秦秀兰（电话）",
+        "孟大江（群消息）",
+        "老耿",
+        "黑色轿车里的人"
+      ],
       "plotProgression": [
         "三天后澜城警方通报：明心灵修会涉嫌非法集资、诈骗，汇澜中心28楼被查封，贺明远被带走调查（后取保候审、下落不明，为第二卷伏笔）",
         "舆论翻转：亲戚群里没人再提“冲撞”，二叔撤回了消息；邹婶打电话道歉，哭得说不出话；母亲说“村里人现在都说，还是实子稳当”（事实打脸，轻量）",
@@ -579,7 +1001,9 @@
       "foreshadowing": "雨落不积水之地（穴场线索）；黑色轿车（贺明远背后的资本/权贵）；贺明远取保后下落不明",
       "connection": "承接：被泼脏水；引出：第一卷第二段（第31章起）",
       "location": "澜城第一医院、澜水河滩、柳巷菜市场口",
-      "pov": "孟实视角", "mood": "释然、开阔、新的悬念", "volumeNumber": 1
+      "pov": "孟实视角",
+      "mood": "释然、开阔、新的悬念",
+      "volumeNumber": 1
     }
   ]
 }

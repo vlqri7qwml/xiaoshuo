@@ -12,8 +12,8 @@
       "type": "衔接",
       "severity": "轻微",
       "description": ".sumeru/write/meta/019.json 的 newDetails 仍写“礼金：孟实随一千”，与修正后正文不符；按规则已存在的 meta 只更新 hanziCount，未改该条。",
-      "fix": "以 summaries/019.json 的 keyFacts（份子六百+四百药钱）为准；如需要可人工把 meta 该条改为六百。",
-      "status": "需人工干预"
+      "fix": "以 summaries/019.json 的 keyFacts（份子六百+四百药钱）为准；如需要可人工把 meta 该条改为六百。｜总控已修：meta 019 礼金改为六百+四百药钱",
+      "status": "已解决"
     }
   ]
 }

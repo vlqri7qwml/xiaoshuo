@@ -1,14 +1,62 @@
 {
   "session_id": "session-20261004-sanqianpangmen",
   "created_at": "2026-10-04",
-  "updated_at": "2026-10-04",
-  "current_stage": "write",
+  "updated_at": "2026-10-05",
+  "current_stage": "polish",
   "stages": {
-    "topic": {"status": "completed", "output_files": ["选题策划报告.md", ".sumeru/topic/options.json"]},
-    "outline": {"status": "completed", "output_files": ["小说大纲_世界观设定.md", "小说大纲_剧情框架.md", "小说大纲_章节细纲.md", ".sumeru/outline/world.json", ".sumeru/outline/characters.json", ".sumeru/outline/plot-outline.json", ".sumeru/outline/chapter-outlines.json", ".sumeru/outline/compliance-check.json"], "note": "本轮细纲覆盖第1-30章；第31-500章细纲后续轮次生成"},
-    "write": {"status": "in_progress", "planned_chapters": 30, "agents": 10, "chapters_per_agent": 3},
-    "review": {"status": "pending"},
-    "polish": {"status": "pending"},
-    "finalize": {"status": "skipped_this_round"}
+    "topic": {
+      "status": "completed",
+      "output_files": [
+        "选题策划报告.md",
+        ".sumeru/topic/options.json"
+      ]
+    },
+    "outline": {
+      "status": "completed",
+      "output_files": [
+        "小说大纲_世界观设定.md",
+        "小说大纲_剧情框架.md",
+        "小说大纲_章节细纲.md",
+        ".sumeru/outline/world.json",
+        ".sumeru/outline/characters.json",
+        ".sumeru/outline/plot-outline.json",
+        ".sumeru/outline/chapter-outlines.json",
+        ".sumeru/outline/compliance-check.json"
+      ],
+      "note": "本轮细纲覆盖第1-30章；第31-500章细纲后续轮次生成"
+    },
+    "write": {
+      "status": "completed",
+      "statistics": {
+        "total_chapters": 30,
+        "completed_chapters": 30,
+        "total_words": 99364
+      },
+      "note": "首轮10个Agent因用量上限中断，缺章由3个Agent补写"
+    },
+    "review": {
+      "status": "completed",
+      "output_files": [
+        "剧情审查报告.md",
+        ".sumeru/review/issues.json",
+        ".sumeru/review/bottom-line-checklist.json",
+        ".sumeru/review/word-count.json"
+      ],
+      "statistics": {
+        "total_issues_found": 121,
+        "severe": 12,
+        "resolved": 121,
+        "bottom_line_manual": 0
+      },
+      "bottom_line_all_resolved": true
+    },
+    "polish": {
+      "status": "in_progress",
+      "polish_level": "moderate",
+      "style": "写实都市+克制的玄"
+    },
+    "finalize": {
+      "status": "skipped_this_round"
+    }
   }
 }

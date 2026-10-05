@@ -1,0 +1,323 @@
+{
+  "summary": {
+    "total_chapters": 30,
+    "total_words": 99364,
+    "average_words": 3312.13,
+    "min_words": 3128,
+    "max_words": 3582,
+    "ideal_range": [
+      2800,
+      3600
+    ],
+    "warning_range": [
+      2800,
+      3800
+    ],
+    "too_short_count": 0,
+    "too_long_count": 0
+  },
+  "too_short_chapters": [],
+  "too_long_chapters": [],
+  "chapters": [
+    {
+      "chapter_num": 1,
+      "file_name": "001-夜班.md",
+      "file_path": "/home/user/xiaoshuo/chapters/001-夜班.md",
+      "total_words": 3509,
+      "hanzi_count": 3508,
+      "english_count": 1,
+      "punctuation_count": 657,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 2,
+      "file_name": "002-修鞋的老头.md",
+      "file_path": "/home/user/xiaoshuo/chapters/002-修鞋的老头.md",
+      "total_words": 3384,
+      "hanzi_count": 3384,
+      "english_count": 0,
+      "punctuation_count": 650,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 3,
+      "file_name": "003-一个整觉.md",
+      "file_path": "/home/user/xiaoshuo/chapters/003-一个整觉.md",
+      "total_words": 3453,
+      "hanzi_count": 3453,
+      "english_count": 0,
+      "punctuation_count": 649,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 4,
+      "file_name": "004-不要钱的才最贵.md",
+      "file_path": "/home/user/xiaoshuo/chapters/004-不要钱的才最贵.md",
+      "total_words": 3160,
+      "hanzi_count": 3160,
+      "english_count": 0,
+      "punctuation_count": 617,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 5,
+      "file_name": "005-扫屋子.md",
+      "file_path": "/home/user/xiaoshuo/chapters/005-扫屋子.md",
+      "total_words": 3254,
+      "hanzi_count": 3254,
+      "english_count": 0,
+      "punctuation_count": 617,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 6,
+      "file_name": "006-零错件.md",
+      "file_path": "/home/user/xiaoshuo/chapters/006-零错件.md",
+      "total_words": 3267,
+      "hanzi_count": 3267,
+      "english_count": 0,
+      "punctuation_count": 686,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 7,
+      "file_name": "007-老乡.md",
+      "file_path": "/home/user/xiaoshuo/chapters/007-老乡.md",
+      "total_words": 3154,
+      "hanzi_count": 3154,
+      "english_count": 0,
+      "punctuation_count": 667,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 8,
+      "file_name": "008-满堂哄笑.md",
+      "file_path": "/home/user/xiaoshuo/chapters/008-满堂哄笑.md",
+      "total_words": 3524,
+      "hanzi_count": 3524,
+      "english_count": 0,
+      "punctuation_count": 707,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 9,
+      "file_name": "009-借来的.md",
+      "file_path": "/home/user/xiaoshuo/chapters/009-借来的.md",
+      "total_words": 3169,
+      "hanzi_count": 3169,
+      "english_count": 0,
+      "punctuation_count": 575,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 10,
+      "file_name": "010-停滞.md",
+      "file_path": "/home/user/xiaoshuo/chapters/010-停滞.md",
+      "total_words": 3215,
+      "hanzi_count": 3215,
+      "english_count": 0,
+      "punctuation_count": 606,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 11,
+      "file_name": "011-一万二.md",
+      "file_path": "/home/user/xiaoshuo/chapters/011-一万二.md",
+      "total_words": 3264,
+      "hanzi_count": 3261,
+      "english_count": 3,
+      "punctuation_count": 707,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 12,
+      "file_name": "012-过坎.md",
+      "file_path": "/home/user/xiaoshuo/chapters/012-过坎.md",
+      "total_words": 3207,
+      "hanzi_count": 3204,
+      "english_count": 3,
+      "punctuation_count": 587,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 13,
+      "file_name": "013-锅.md",
+      "file_path": "/home/user/xiaoshuo/chapters/013-锅.md",
+      "total_words": 3213,
+      "hanzi_count": 3199,
+      "english_count": 14,
+      "punctuation_count": 618,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 14,
+      "file_name": "014-不争.md",
+      "file_path": "/home/user/xiaoshuo/chapters/014-不争.md",
+      "total_words": 3184,
+      "hanzi_count": 3170,
+      "english_count": 14,
+      "punctuation_count": 665,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 15,
+      "file_name": "015-白班.md",
+      "file_path": "/home/user/xiaoshuo/chapters/015-白班.md",
+      "total_words": 3128,
+      "hanzi_count": 3119,
+      "english_count": 9,
+      "punctuation_count": 560,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 16,
+      "file_name": "016-来求的人.md",
+      "file_path": "/home/user/xiaoshuo/chapters/016-来求的人.md",
+      "total_words": 3582,
+      "hanzi_count": 3582,
+      "english_count": 0,
+      "punctuation_count": 682,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 17,
+      "file_name": "017-两百块.md",
+      "file_path": "/home/user/xiaoshuo/chapters/017-两百块.md",
+      "total_words": 3535,
+      "hanzi_count": 3535,
+      "english_count": 0,
+      "punctuation_count": 586,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 18,
+      "file_name": "018-一句真话.md",
+      "file_path": "/home/user/xiaoshuo/chapters/018-一句真话.md",
+      "total_words": 3220,
+      "hanzi_count": 3220,
+      "english_count": 0,
+      "punctuation_count": 590,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 19,
+      "file_name": "019-衣锦还乡.md",
+      "file_path": "/home/user/xiaoshuo/chapters/019-衣锦还乡.md",
+      "total_words": 3324,
+      "hanzi_count": 3324,
+      "english_count": 0,
+      "punctuation_count": 678,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 20,
+      "file_name": "020-饭局.md",
+      "file_path": "/home/user/xiaoshuo/chapters/020-饭局.md",
+      "total_words": 3492,
+      "hanzi_count": 3492,
+      "english_count": 0,
+      "punctuation_count": 684,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 21,
+      "file_name": "021-要还的.md",
+      "file_path": "/home/user/xiaoshuo/chapters/021-要还的.md",
+      "total_words": 3318,
+      "hanzi_count": 3318,
+      "english_count": 0,
+      "punctuation_count": 721,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 22,
+      "file_name": "022-黄布牌位.md",
+      "file_path": "/home/user/xiaoshuo/chapters/022-黄布牌位.md",
+      "total_words": 3488,
+      "hanzi_count": 3488,
+      "english_count": 0,
+      "punctuation_count": 662,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 23,
+      "file_name": "023-不碰，不求.md",
+      "file_path": "/home/user/xiaoshuo/chapters/023-不碰，不求.md",
+      "total_words": 3406,
+      "hanzi_count": 3406,
+      "english_count": 0,
+      "punctuation_count": 691,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 24,
+      "file_name": "024-黑水.md",
+      "file_path": "/home/user/xiaoshuo/chapters/024-黑水.md",
+      "total_words": 3155,
+      "hanzi_count": 3154,
+      "english_count": 1,
+      "punctuation_count": 565,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 25,
+      "file_name": "025-雨季.md",
+      "file_path": "/home/user/xiaoshuo/chapters/025-雨季.md",
+      "total_words": 3292,
+      "hanzi_count": 3292,
+      "english_count": 0,
+      "punctuation_count": 579,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 26,
+      "file_name": "026-胸闷.md",
+      "file_path": "/home/user/xiaoshuo/chapters/026-胸闷.md",
+      "total_words": 3438,
+      "hanzi_count": 3438,
+      "english_count": 0,
+      "punctuation_count": 594,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 27,
+      "file_name": "027-路口.md",
+      "file_path": "/home/user/xiaoshuo/chapters/027-路口.md",
+      "total_words": 3358,
+      "hanzi_count": 3358,
+      "english_count": 0,
+      "punctuation_count": 604,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 28,
+      "file_name": "028-闭关.md",
+      "file_path": "/home/user/xiaoshuo/chapters/028-闭关.md",
+      "total_words": 3277,
+      "hanzi_count": 3277,
+      "english_count": 0,
+      "punctuation_count": 644,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 29,
+      "file_name": "029-冲撞.md",
+      "file_path": "/home/user/xiaoshuo/chapters/029-冲撞.md",
+      "total_words": 3250,
+      "hanzi_count": 3250,
+      "english_count": 0,
+      "punctuation_count": 676,
+      "status": "normal"
+    },
+    {
+      "chapter_num": 30,
+      "file_name": "030-一条缝.md",
+      "file_path": "/home/user/xiaoshuo/chapters/030-一条缝.md",
+      "total_words": 3144,
+      "hanzi_count": 3144,
+      "english_count": 0,
+      "punctuation_count": 588,
+      "status": "normal"
+    }
+  ]
+}

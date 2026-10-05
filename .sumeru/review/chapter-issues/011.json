@@ -26,8 +26,8 @@
       "type": "设定崩坏",
       "severity": "轻微",
       "description": ".sumeru/write/meta/011.json 的 newDetails 仍写“发放日4月15日”，与修改后的正文不一致",
-      "fix": "审查规则规定已存在的 meta 只更新 hanziCount，所以没改；建议后续统一更新该条",
-      "status": "需人工干预"
+      "fix": "审查规则规定已存在的 meta 只更新 hanziCount，所以没改；建议后续统一更新该条｜总控已修：发薪日统一为每月15日（正文与meta）",
+      "status": "已解决"
     }
   ]
 }
